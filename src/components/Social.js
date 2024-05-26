@@ -3,19 +3,10 @@ const Social = () => {
     <div className="social">
       <h2>Socials</h2>
 
-      <a href="mailto:gaurav11018@gmail.com" className="button">
+      <a href="mailto:sydneyrocky1204@outlook.com" className="button">
         Email
       </a>
-      <a href="https://twitter.com/Gaurav28112001" className="button">
-        Twitter
-      </a>
-      <a
-        href="https://www.linkedin.com/in/gaurav-u-a4a924253/"
-        className="button"
-      >
-        LinkedIn
-      </a>
-      <a href="https://github.com/gaurav-11018" className="button">
+      <a href="https://github.com/sydrock1204" className="button">
         GitHub
       </a>
     </div>

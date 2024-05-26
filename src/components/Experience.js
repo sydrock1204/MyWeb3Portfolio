@@ -5,16 +5,14 @@ const Experience = () => {
 
       <ul>
         <li>
-          <i>PES University</i>, 2020-2024
+          <i>Belgrade University</i>, 2020-2024
           <ul>
-            <li>
-              Electronics and Communication Engineer, third-year(junior-year).
-            </li>
+            <li>Computer Software Engineer, third-year(junior-year).</li>
           </ul>
         </li>
         <li>
           <i>Blockchain development course from</i>{" "}
-          <strong>FreeCode-camp</strong>
+          <strong>CryptoZombies.io</strong>
           <ul></ul>
         </li>
         <li>
@@ -25,7 +23,7 @@ const Experience = () => {
           </ul>
         </li>
         <li>
-          <i>Member of</i> - <strong>LearnWeb3DAO</strong>
+          <i>Member of</i> - <strong>BlockBuddies</strong>
           <ul>
             <li>Active member of the discord community.</li>
           </ul>
