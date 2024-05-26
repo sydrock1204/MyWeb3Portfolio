@@ -6,7 +6,7 @@ https://gateway.valist.io/ipfs/bafybeibq5smknvbamoscm6bewxc7k234cszdj5hctg7j5i46
 
 
 Check it out:
-https://floral-surf-9500.on.fleek.co
+
 
 If u want to run in localhost on your own clone the repository and:
 yarn run 
