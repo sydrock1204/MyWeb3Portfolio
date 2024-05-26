@@ -2,7 +2,6 @@
 This is my Portfolio. And as a Blockchain geek I had to make this Portfolio website decentralized and hosted in IPFS.
 
 ## CHECK IT OUT VALIST VERSION-
-https://gateway.valist.io/ipfs/bafybeibq5smknvbamoscm6bewxc7k234cszdj5hctg7j5i46kiukhdnbqu
 
 
 Check it out:
